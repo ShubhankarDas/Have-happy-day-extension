@@ -14,7 +14,7 @@ const filesToAdd = [
   },
   {
     path: `${__dirname}/logo-38.png`,
-    name: 'logo-39.png',
+    name: 'logo-38.png',
   },
   {
     path: `${__dirname}/logo-48.png`,
