@@ -1,6 +1,6 @@
 {
   "name": "Have a happy day",
-  "version": "0.0.0.6",
+  "version": "0.0.0.7",
   "description": "Stay happy. Stay inspired.",
   "manifest_version": 2,
   "icons": {
@@ -15,9 +15,5 @@
   },
   "browser_action": {
     "default_icon": "logo-128.png"
-  },
-  "background": {
-    "scripts": ["background.js"],
-    "persistent": false
   }
 }

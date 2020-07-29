@@ -44,10 +44,6 @@ const filesToAdd = [
     path: `${__dirname}/styles.css`,
     name: 'styles.css',
   },
-  {
-    path: `${__dirname}/background.js`,
-    name: 'background.js',
-  },
 ];
 
 output.on('close', function () {
