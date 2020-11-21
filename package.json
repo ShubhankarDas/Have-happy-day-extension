@@ -1,0 +1,22 @@
+{
+  "name": "have-happy-day-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension which will give a random image and a quote to make you smile.",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhankarDas/Have-happy-day-extension.git"
+  },
+  "author": "Shubhankar Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhankarDas/Have-happy-day-extension/issues"
+  },
+  "homepage": "https://github.com/ShubhankarDas/Have-happy-day-extension#readme",
+  "dependencies": {
+    "archiver": "^5.1.0"
+  }
+}
