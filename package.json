@@ -4,7 +4,8 @@
   "description": "Chrome extension which will give a random image and a quote to make you smile.",
   "main": "build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build.js"
   },
   "repository": {
     "type": "git",
