@@ -62,7 +62,7 @@ function renderQuote(response) {
   document.getElementById("message").innerHTML = response.res.message;
   let imageUrl = "";
   if (response.res.image_link) {
-    imageUrl = image_link;
+    imageUrl = response.res.image_link;
   } else {
     imageUrl = BASE_URL + "images/" + response.res.image_name;
   }

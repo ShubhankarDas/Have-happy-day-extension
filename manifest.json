@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Have a happy day",
-  "version": "0.0.0.11",
+  "version": "0.0.0.12",
   "description": "Stay happy. Stay inspired.",
   "icons": {
     "19": "logo-19.png",
